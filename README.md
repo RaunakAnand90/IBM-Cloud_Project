@@ -26,11 +26,17 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 The system uses a simple client-server architecture with Express API endpoints:
 
           [React (Vite + TS)]
+          
                     ↓
+                    
           [HTTP Requests]
+          
                     ↓
+                    
           [Express Server (Node.js)]
+          
                     ↓
+                    
           [Local Storage / Future Cloud]
 
 # Clone the repository
@@ -38,5 +44,6 @@ The system uses a simple client-server architecture with Express API endpoints:
 git clone 
 
           https://github.com/yourusername/Data-Backup-and-Recovery-System.git
+          
 
           cd Data-Backup-and-Recovery-System
