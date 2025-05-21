@@ -4,8 +4,11 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 
 # 🚀 Features
 🔒 Secure Data Backup with File Upload
+
 ♻️ Data Recovery and Restore Functionality
+
 🧠 Intelligent Error Handling and Logging
+
 ⚙️ Easy to Extend for Cloud Storage
 
 # 🖥️ Tech Stack
