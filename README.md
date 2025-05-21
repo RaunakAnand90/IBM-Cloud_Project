@@ -3,6 +3,7 @@
 A robust, full-stack application built with React + Vite + TypeScript on the frontend and Express.js on the backend, designed to securely backup and restore critical data.
 
 ## 🚀 Features
+
 🔒 Secure Data Backup with File Upload
 
 ♻️ Data Recovery and Restore Functionality
@@ -21,17 +22,25 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 
 
 ## 🧠 System Architecture
+
 The system uses a simple client-server architecture with Express API endpoints:
 
 [React (Vite + TS)] 
+
       ↓
+
 [HTTP Requests]
+
       ↓
+
 [Express Server (Node.js)]
+
       ↓
+
 [Local Storage / Future Cloud]
 
 # Clone the repository
+
 git clone https://github.com/yourusername/Data-Backup-and-Recovery-System.git
 
 cd Data-Backup-and-Recovery-System
