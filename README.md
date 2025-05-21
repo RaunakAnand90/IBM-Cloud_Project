@@ -11,11 +11,14 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 
 ⚙️ Easy to Extend for Cloud Storage
 
-# 🖥️ Tech Stack
-Frontend	Backend	Others
-React	Express	TypeScript
-Vite	Node.js	HTML Canvas
-Tailwind		EXPRESS API
+### 💻 Tech Stack
+
+| **Frontend** | **Backend** | **Others**         |
+|--------------|-------------|--------------------|
+| React        | Express     | TypeScript         |
+| Vite         | Node.js     | HTML Canvas        |
+| Tailwind     |             | EXPRESS API        |
+
 
 # 🧠 System Architecture
 The system uses a simple client-server architecture with Express API endpoints:
