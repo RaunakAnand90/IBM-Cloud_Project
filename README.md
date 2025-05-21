@@ -2,7 +2,7 @@
 # 🗂️ Data Backup and Recovery System
 A robust, full-stack application built with React + Vite + TypeScript on the frontend and Express.js on the backend, designed to securely backup and restore critical data.
 
-# 🚀 Features
+## 🚀 Features
 🔒 Secure Data Backup with File Upload
 
 ♻️ Data Recovery and Restore Functionality
@@ -11,7 +11,7 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 
 ⚙️ Easy to Extend for Cloud Storage
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 | **Frontend** | **Backend** | **Others**         |
 |--------------|-------------|--------------------|
@@ -20,7 +20,7 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 | Tailwind     |             | EXPRESS API        |
 
 
-# 🧠 System Architecture
+## 🧠 System Architecture
 The system uses a simple client-server architecture with Express API endpoints:
 
 [React (Vite + TS)] 
