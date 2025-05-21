@@ -11,7 +11,7 @@ A robust, full-stack application built with React + Vite + TypeScript on the fro
 
 ⚙️ Easy to Extend for Cloud Storage
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 | **Frontend** | **Backend** | **Others**         |
 |--------------|-------------|--------------------|
